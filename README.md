@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development, IoT, and AI
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects about IoT , Frontend Development
-- 📫 How to reach me: Email: swenfaithm@gmail.com  linkedIn:linkedin.com/in/faith-makulah-swen-239411217
+- 📫 How to reach me: Email: swenfaithm@gmail.com  linkedIn:https://linkedin.com/in/faith-makulah-swen-239411217
                     
 
 <!---
