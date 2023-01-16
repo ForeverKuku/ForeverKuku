@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ForeverKuku
-- 👀 I’m interested in Frontend Development, IoT, and AI
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects about IoT , Frontend Development
+- I'm passionate about making the world a better place through technologies.
+- 💞️ I’m looking to collaborate on projects about IoT , Frontend Development, Flutter mobile application
 - 📫 How to reach me: Email: swenfaithm@gmail.com  linkedIn:https://linkedin.com/in/faith-makulah-swen-239411217
                     
 
