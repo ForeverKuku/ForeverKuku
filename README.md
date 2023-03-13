@@ -1,3 +1,4 @@
+Hi, I'm Faith Makulah Swen  ✨!!
 - I'm passionate about making the world a better place through technology.
 - 💞️ I’m looking to collaborate on projects about IoT , Frontend Development, Flutter mobile application
 - 📫 How to reach me: Email: swenfaithm@gmail.com  linkedIn:https://linkedin.com/in/faith-makulah-swen-239411217
